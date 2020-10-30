@@ -1,0 +1,1685 @@
+[
+    {
+        "tmsId": "MV011727750000",
+        "rootId": "15678713",
+        "subType": "Feature Film",
+        "title": "Turtle Odyssey",
+        "releaseYear": 2018,
+        "releaseDate": "2018",
+        "titleLang": "en-AU",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Documentary"
+        ],
+        "longDescription": "The unique life cycle of an Australian green sea turtle and its journey across the open ocean.",
+        "shortDescription": "The unique life cycle of an Australian green sea turtle and its journey across the open ocean.",
+        "topCast": [
+            "Russell Crowe"
+        ],
+        "directors": [
+            "Caspar Mazzotti",
+            "Paul Phelan"
+        ],
+        "runTime": "PT00H45M",
+        "preferredImage": {
+            "uri": "tvbanners/generic/generic_tvbanners_v5.png"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "4604",
+                    "name": "Bullock Museum Spirit Theater"
+                },
+                "dateTime": "2020-10-29T12:00",
+                "barg": false
+            },
+            {
+                "theatre": {
+                    "id": "4604",
+                    "name": "Bullock Museum Spirit Theater"
+                },
+                "dateTime": "2020-10-29T16:00",
+                "barg": false
+            }
+        ]
+    },
+    {
+        "tmsId": "MV013787510000",
+        "rootId": "17905855",
+        "subType": "Feature Film",
+        "title": "Into America's Wild",
+        "releaseYear": 2020,
+        "releaseDate": "2020",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Documentary"
+        ],
+        "longDescription": "From the wilds of Alaska to the lush coastline of Oregon, filmmaker Greg MacGillivray explores some of the most beautiful landscapes in North America.",
+        "shortDescription": "Filmmaker Greg MacGillivray explores some of the most beautiful landscapes in North America.",
+        "topCast": [
+            "Morgan Freeman"
+        ],
+        "directors": [
+            "Greg MacGillivray"
+        ],
+        "runTime": "PT00H45M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p17905855_v_v5_aa.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "4604",
+                    "name": "Bullock Museum Spirit Theater"
+                },
+                "dateTime": "2020-10-29T14:00",
+                "barg": false
+            }
+        ]
+    },
+    {
+        "tmsId": "MV013618560000",
+        "rootId": "17758177",
+        "subType": "Feature Film",
+        "title": "Tenet",
+        "releaseYear": 2020,
+        "releaseDate": "2020-08-26",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Action",
+            "Science fiction",
+            "Thriller"
+        ],
+        "longDescription": "A secret agent embarks on a dangerous, time-bending mission to prevent the start of World War III.",
+        "shortDescription": "A secret agent embarks on a dangerous, time-bending mission to prevent the start of World War III.",
+        "topCast": [
+            "John David Washington",
+            "Robert Pattinson",
+            "Elizabeth Debicki"
+        ],
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "officialUrl": "https://www.tenetfilm.com/",
+        "qualityRating": {
+            "ratingsBody": "TMS",
+            "value": "3"
+        },
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "PG-13"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations",
+            "Violence"
+        ],
+        "runTime": "PT02H30M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p17758177_v_v5_ab.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T18:00",
+                "barg": false
+            },
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T18:15",
+                "barg": false
+            },
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T21:45",
+                "barg": false
+            },
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T22:05",
+                "barg": false
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T16:20",
+                "quals": "Reserved Seating|Recliners|Descriptive Video Services|Closed Captioned",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=203875&d=2020-10-29"
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T19:45",
+                "quals": "Closed Captioned|Descriptive Video Services|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=203875&d=2020-10-29"
+            }
+        ]
+    },
+    {
+        "tmsId": "MV001067170000",
+        "rootId": "27575",
+        "subType": "Feature Film",
+        "title": "Shrek",
+        "releaseYear": 2001,
+        "releaseDate": "2001-04-22",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Animated",
+            "Children"
+        ],
+        "audience": "Children",
+        "longDescription": "Once upon a time, in a far away swamp, there lived an ogre named Shrek (Mike Myers) whose precious solitude is suddenly shattered by an invasion of annoying fairy tale characters. They were all banished from their kingdom by the evil Lord Farquaad (John Lithgow). Determined to save their home -- not to mention his -- Shrek cuts a deal with Farquaad and sets out to rescue Princess Fiona (Cameron Diaz) to be Farquaad's bride. Rescuing the Princess may be small compared to her deep, dark secret.",
+        "shortDescription": "A monster (Mike Myers) and a donkey (Eddie Murphy) make a deal with a mean lord.",
+        "topCast": [
+            "Mike Myers",
+            "Eddie Murphy",
+            "Cameron Diaz"
+        ],
+        "directors": [
+            "Andrew Adamson",
+            "Vicky Jenson"
+        ],
+        "officialUrl": "http://www.shrek.com",
+        "qualityRating": {
+            "ratingsBody": "TMS",
+            "value": "3.5"
+        },
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "PG"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations"
+        ],
+        "runTime": "PT01H29M",
+        "animation": "Animated",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p27575_v_v5_aa.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T18:00",
+                "barg": false
+            }
+        ]
+    },
+    {
+        "tmsId": "MV000184260000",
+        "rootId": "8572",
+        "subType": "Feature Film",
+        "title": "A Nightmare on Elm Street",
+        "releaseYear": 1984,
+        "releaseDate": "1984-11-09",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Horror"
+        ],
+        "longDescription": "In Wes Craven's classic slasher film, several Midwestern teenagers fall prey to Freddy Krueger (Robert Englund), a disfigured midnight mangler who preys on the teenagers in their dreams -- which, in turn, kills them in reality. After investigating the phenomenon, Nancy (Heather Langenkamp) begins to suspect that a dark secret kept by her and her friends' parents may be the key to unraveling the mystery, but can Nancy and her boyfriend Glen (Johnny Depp) solve the puzzle before it's too late?",
+        "shortDescription": "Freddy Krueger, a badly burned boogeyman with razors on his glove, haunts teens in their dreams.",
+        "topCast": [
+            "John Saxon",
+            "Ronee Blakley",
+            "Heather Langenkamp"
+        ],
+        "directors": [
+            "Wes Craven"
+        ],
+        "qualityRating": {
+            "ratingsBody": "TMS",
+            "value": "3.5"
+        },
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "R"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations",
+            "Brief Nudity",
+            "Graphic Violence"
+        ],
+        "runTime": "PT01H31M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p8572_v_v5_ac.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T18:15",
+                "barg": false
+            },
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T19:30",
+                "barg": false
+            }
+        ]
+    },
+    {
+        "tmsId": "MV000371150000",
+        "rootId": "14911",
+        "subType": "Feature Film",
+        "title": "Hocus Pocus",
+        "releaseYear": 1993,
+        "releaseDate": "1993-10-29",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Comedy",
+            "Children"
+        ],
+        "audience": "Children",
+        "longDescription": "After moving to Salem, Mass., teenager Max Dennison (Omri Katz) explores an abandoned house with his sister Dani (Thora Birch) and their new friend, Allison (Vinessa Shaw). After dismissing a story Allison tells as superstitious, Max accidentally frees a coven of evil witches (Bette Midler, Sarah Jessica Parker, Kathy Najimy) who used to live in the house. Now, with the help of a magical cat, the kids must steal the witches' book of spells to stop them from becoming immortal.",
+        "shortDescription": "Trick-or-treaters meet three witch sisters (Bette Midler, Sarah Jessica Parker, Kathy Najimy).",
+        "topCast": [
+            "Bette Midler",
+            "Sarah Jessica Parker",
+            "Kathy Najimy"
+        ],
+        "directors": [
+            "Kenny Ortega"
+        ],
+        "qualityRating": {
+            "ratingsBody": "TMS",
+            "value": "2.5"
+        },
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "PG"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations"
+        ],
+        "runTime": "PT01H35M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p14911_v_v5_af.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T18:45",
+                "barg": false
+            }
+        ]
+    },
+    {
+        "tmsId": "MV011728530000",
+        "rootId": "15680009",
+        "subType": "Feature Film",
+        "title": "Mandy",
+        "releaseYear": 2018,
+        "releaseDate": "2018-01-19",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "longDescription": "In the Pacific Northwest in 1983, outsiders Red Miller and Mandy Bloom lead a loving and peaceful existence. When their pine-scented haven is savagely destroyed by a cult led by the sadistic Jeremiah Sand, Red is catapulted into a phantasmagoric journey filled with bloody vengeance and laced with deadly fire.",
+        "shortDescription": "A man seeks bloody vengeance against the sadistic cult leader who destroyed his peaceful existence.",
+        "topCast": [
+            "Nicolas Cage",
+            "Andrea Riseborough",
+            "Linus Roache"
+        ],
+        "directors": [
+            "Panos Cosmatos"
+        ],
+        "officialUrl": "https://us.rljentertainment.com/franchise/mandy/",
+        "advisories": [
+            "Adult Language",
+            "Adult Situations",
+            "Graphic Violence"
+        ],
+        "runTime": "PT02H01M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p15680009_v_v5_aa.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T19:00",
+                "barg": false
+            }
+        ]
+    },
+    {
+        "tmsId": "MV013942100000",
+        "rootId": "18082622",
+        "subType": "Feature Film",
+        "title": "Come Play",
+        "releaseYear": 2020,
+        "releaseDate": "2020-10-30",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "longDescription": "Parents fight to save their son when a mysterious creature uses his electronic devices to break into our world.",
+        "shortDescription": "A mysterious creature uses a lonely boy's electronic devices to break into our world.",
+        "topCast": [
+            "Azhy Robertson",
+            "Gillian Jacobs",
+            "John Gallagher"
+        ],
+        "directors": [
+            "Jacob Chase"
+        ],
+        "officialUrl": "https://www.focusfeatures.com/come-play",
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "PG-13"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations"
+        ],
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "caption": {
+                "content": "Come Play (2020)",
+                "lang": "en"
+            },
+            "uri": "assets/p18082622_p_v5_aa.jpg",
+            "category": "Poster Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T19:45",
+                "barg": false
+            },
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T22:50",
+                "barg": false
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T19:00",
+                "quals": "AMC Independent|Closed Captioned|Descriptive Video Services|Dolby Cinema at AMC Prime|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=205740&d=2020-10-29"
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T19:30",
+                "quals": "Reserved Seating|Recliners|Descriptive Video Services|Closed Captioned|AMC Independent",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=205740&d=2020-10-29"
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T20:00",
+                "quals": "AMC Independent|Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=205740&d=2020-10-29"
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T20:15",
+                "quals": "AMC Independent|Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=205740&d=2020-10-29"
+            }
+        ]
+    },
+    {
+        "tmsId": "MV000227710000",
+        "rootId": "10177",
+        "subType": "Feature Film",
+        "title": "The Lost Boys",
+        "releaseYear": 1987,
+        "releaseDate": "1987-07-31",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Horror",
+            "Comedy"
+        ],
+        "longDescription": "Teenage brothers Michael (Jason Patric) and Sam (Corey Haim) move with their mother (Dianne Wiest) to a small town in northern California. While the younger Sam meets a pair of kindred spirits in geeky comic-book nerds Edward (Corey Feldman) and Alan (Jamison Newlander), the angst-ridden Michael soon falls for Star (Jami Gertz) -- who turns out to be in thrall to David (Kiefer Sutherland), leader of a local gang of vampires. Sam and his new friends must save Michael and Star from the undead.",
+        "shortDescription": "A woman (Dianne Wiest) and her sons (Jason Patric, Corey Haim) move to a town full of vampires.",
+        "topCast": [
+            "Jason Patric",
+            "Corey Haim",
+            "Dianne Wiest"
+        ],
+        "directors": [
+            "Joel Schumacher"
+        ],
+        "qualityRating": {
+            "ratingsBody": "TMS",
+            "value": "3"
+        },
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "R"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations",
+            "Graphic Violence"
+        ],
+        "runTime": "PT01H37M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p10177_v_v5_bb.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T21:45",
+                "barg": false
+            }
+        ]
+    },
+    {
+        "tmsId": "MV000197500000",
+        "rootId": "9070",
+        "subType": "Feature Film",
+        "title": "The Goonies",
+        "releaseYear": 1985,
+        "releaseDate": "1985-06-07",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Children"
+        ],
+        "audience": "Children",
+        "longDescription": "When two brothers find out they might lose their house they are desperate to find a way to keep their home. They find a treasure map and bring some friends along to find it. They are all out looking for the \"X\" and trying to get away from a group of bad guys who also want the treasure.",
+        "shortDescription": "Oregon kids (Sean Astin, Josh Brolin, Jeff Cohen) follow a pirate's map to gold.",
+        "topCast": [
+            "Sean Astin",
+            "Josh Brolin",
+            "Jeff Cohen"
+        ],
+        "directors": [
+            "Richard Donner"
+        ],
+        "qualityRating": {
+            "ratingsBody": "TMS",
+            "value": "3"
+        },
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "PG"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations",
+            "Mild Violence"
+        ],
+        "runTime": "PT01H51M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p9070_v_v5_ai.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T22:00",
+                "barg": false
+            }
+        ]
+    },
+    {
+        "tmsId": "MV000247340000",
+        "rootId": "10703",
+        "subType": "Feature Film",
+        "title": "Beetlejuice",
+        "releaseYear": 1988,
+        "releaseDate": "1988-03-30",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Comedy"
+        ],
+        "longDescription": "After Barbara (Geena Davis) and Adam Maitland (Alec Baldwin) die in a car accident, they find themselves stuck haunting their country residence, unable to leave the house. When the unbearable Deetzes (Catherine O'Hara, Jeffrey Jones) and teen daughter Lydia (Winona Ryder) buy the home, the Maitlands attempt to scare them away without success. Their efforts attract Beetlejuice (Michael Keaton), a rambunctious spirit whose \"help\" quickly becomes dangerous for the Maitlands and innocent Lydia.",
+        "shortDescription": "Ghoul (Michael Keaton) helps dead couple (Alec Baldwin, Geena Davis) evict obnoxious homeowners.",
+        "topCast": [
+            "Michael Keaton",
+            "Alec Baldwin",
+            "Geena Davis"
+        ],
+        "directors": [
+            "Tim Burton"
+        ],
+        "qualityRating": {
+            "ratingsBody": "TMS",
+            "value": "3"
+        },
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "PG"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Mild Violence"
+        ],
+        "runTime": "PT01H32M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p10703_v_v5_ad.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T22:35",
+                "barg": false
+            }
+        ]
+    },
+    {
+        "tmsId": "MV000004670000",
+        "rootId": "283",
+        "subType": "Feature Film",
+        "title": "Psycho",
+        "releaseYear": 1960,
+        "releaseDate": "1960-06-16",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "longDescription": "Phoenix secretary Marion Crane (Janet Leigh), on the lam after stealing $40,000 from her employer in order to run away with her boyfriend, Sam Loomis (John Gavin), is overcome by exhaustion during a heavy rainstorm. Traveling on the back roads to avoid the police, she stops for the night at the ramshackle Bates Motel and meets the polite but highly strung proprietor Norman Bates (Anthony Perkins), a young man with an interest in taxidermy and a difficult relationship with his mother.",
+        "shortDescription": "A woman (Janet Leigh) stops at a motel run by mad Norman Bates (Anthony Perkins).",
+        "topCast": [
+            "Anthony Perkins",
+            "Janet Leigh",
+            "Vera Miles"
+        ],
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "qualityRating": {
+            "ratingsBody": "TMS",
+            "value": "4"
+        },
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "R"
+            }
+        ],
+        "advisories": [
+            "Adult Situations",
+            "Violence"
+        ],
+        "runTime": "PT01H49M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p283_v_v5_ap.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T22:45",
+                "barg": false
+            }
+        ]
+    },
+    {
+        "tmsId": "MV013065370000",
+        "rootId": "17387266",
+        "subType": "Feature Film",
+        "title": "Synchronic",
+        "releaseYear": 2019,
+        "releaseDate": "2019-09-07",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Science fiction",
+            "Thriller"
+        ],
+        "longDescription": "When New Orleans paramedics and longtime best friends Steve and Dennis are called to a series of bizarre and gruesome accidents, they chalk it up to a mysterious new drug found at the scene. But after Dennis' oldest daughter disappears, Steve stumbles upon a terrifying truth about the supposed psychedelic that will challenge everything he knows about reality -- and the flow of time itself.",
+        "shortDescription": "A paramedic encounters a psychedelic drug that changes reality and the flow of time itself.",
+        "topCast": [
+            "Anthony Mackie",
+            "Jamie Dornan",
+            "Katie Aselton"
+        ],
+        "directors": [
+            "Justin Benson",
+            "Aaron Moorhead"
+        ],
+        "officialUrl": "https://www.wellgousa.com/films/synchronic",
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "R"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations",
+            "Violence"
+        ],
+        "runTime": "PT01H40M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "caption": {
+                "content": "Synchronic (2019)",
+                "lang": "en"
+            },
+            "uri": "assets/p17387266_p_v5_ab.jpg",
+            "category": "Poster Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5084",
+                    "name": "Alamo Drafthouse South Lamar"
+                },
+                "dateTime": "2020-10-29T22:55",
+                "barg": false
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T15:40",
+                "quals": "AMC Independent|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=201126&d=2020-10-29"
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T16:50",
+                "quals": "AMC Independent|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=201126&d=2020-10-29"
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T19:35",
+                "quals": "AMC Independent|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=201126&d=2020-10-29"
+            }
+        ]
+    },
+    {
+        "tmsId": "MV013072000000",
+        "rootId": "17395468",
+        "subType": "Feature Film",
+        "title": "Honest Thief",
+        "releaseYear": 2020,
+        "releaseDate": "2020-09-09",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "longDescription": "Hoping to cut a deal, a professional bank robber agrees to return all the money he stole in exchange for a reduced sentence. But when two FBI agents set him up for murder, he must now go on the run to clear his name and bring them to justice.",
+        "shortDescription": "A professional bank robber goes on the run to clear his name and bring two crooked cops to justice.",
+        "topCast": [
+            "Liam Neeson",
+            "Kate Walsh",
+            "Robert Patrick"
+        ],
+        "directors": [
+            "Mark Williams"
+        ],
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "PG-13"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations",
+            "Violence"
+        ],
+        "runTime": "PT01H39M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "caption": {
+                "content": "Honest Thief (2020)",
+                "lang": "en"
+            },
+            "uri": "assets/p17395468_p_v5_aa.jpg",
+            "category": "Poster Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T15:00",
+                "quals": "AMC Independent|Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=201248&d=2020-10-29"
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T16:00",
+                "quals": "Reserved Seating|Recliners|Dolby Cinema at AMC Prime|Descriptive Video Services|Closed Captioned|AMC Independent",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=201248&d=2020-10-29"
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T18:00",
+                "quals": "AMC Independent|Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=201248&d=2020-10-29"
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T20:00",
+                "quals": "AMC Independent|Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=201248&d=2020-10-29"
+            }
+        ]
+    },
+    {
+        "tmsId": "MV013450420000",
+        "rootId": "17628255",
+        "subType": "Feature Film",
+        "title": "Yellow Rose",
+        "releaseYear": 2019,
+        "releaseDate": "2019-05-02",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Drama",
+            "Music",
+            "Country"
+        ],
+        "longDescription": "A Filipina teen must decide whether to stay with her family or leave her small Texas town to become a country music singer.",
+        "shortDescription": "A teen must decide whether to stay with her family or leave town to become a country music singer.",
+        "topCast": [
+            "Eva Noblezada",
+            "Dale Watson",
+            "Princess Punzalan"
+        ],
+        "directors": [
+            "Diane Paragas"
+        ],
+        "officialUrl": "http://www.yellowrosefilm.com/",
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "PG-13"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations"
+        ],
+        "runTime": "PT01H35M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p17628255_v_v5_ab.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T15:00",
+                "quals": "AMC Independent|Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=203175&d=2020-10-29"
+            }
+        ]
+    },
+    {
+        "tmsId": "MV000376420000",
+        "rootId": "15096",
+        "subType": "Feature Film",
+        "title": "The Nightmare Before Christmas",
+        "releaseYear": 1993,
+        "releaseDate": "1993-10-29",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Fantasy",
+            "Comedy",
+            "Animated",
+            "Children",
+            "Holiday"
+        ],
+        "audience": "Children",
+        "longDescription": "The film follows the misadventures of Jack Skellington, Halloweentown's beloved pumpkin king, who has become bored with the same annual routine of frightening people in the \"real world.\" When Jack accidentally stumbles on Christmastown, all bright colors and warm spirits, he gets a new lease on life -- he plots to bring Christmas under his control by kidnapping Santa Claus and taking over the role. But Jack soon discovers even the best-laid plans of mice and skeleton men can go seriously awry.",
+        "shortDescription": "The Pumpkin King of Halloweentown plans to kidnap Santa Claus and deliver chills instead of joy.",
+        "topCast": [
+            "Danny Elfman",
+            "Chris Sarandon",
+            "Catherine O'Hara"
+        ],
+        "directors": [
+            "Henry Selick"
+        ],
+        "qualityRating": {
+            "ratingsBody": "TMS",
+            "value": "4"
+        },
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "PG"
+            }
+        ],
+        "advisories": [
+            "Adult Situations",
+            "Mild Violence"
+        ],
+        "runTime": "PT01H15M",
+        "animation": "Animated",
+        "holiday": "Christmas",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p15096_v_v5_aa.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T15:05",
+                "quals": "Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=75203&d=2020-10-29"
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T18:00",
+                "quals": "Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=75203&d=2020-10-29"
+            }
+        ]
+    },
+    {
+        "tmsId": "MV001060870000",
+        "rootId": "27462",
+        "subType": "Feature Film",
+        "title": "Monsters, Inc.",
+        "releaseYear": 2001,
+        "releaseDate": "2001-10-28",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Adventure",
+            "Animated",
+            "Children"
+        ],
+        "audience": "Children",
+        "longDescription": "Monsters Incorporated is the largest scare factory in the monster world, and James P. Sullivan (John Goodman) is one of its top scarers. Sullivan is a huge, intimidating monster with blue fur, large purple spots and horns. His scare assistant, best friend and roommate is Mike Wazowski (Billy Crystal), a green, opinionated, feisty little one-eyed monster. Visiting from the human world is Boo (Mary Gibbs), a tiny girl who goes where no human has ever gone before.",
+        "shortDescription": "A blue behemoth (John Goodman) and his one-eyed pal (Billy Crystal) scare children.",
+        "topCast": [
+            "John Goodman",
+            "Billy Crystal",
+            "Mary Gibbs"
+        ],
+        "directors": [
+            "Pete Docter"
+        ],
+        "officialUrl": "http://www.monstersinc.com/",
+        "qualityRating": {
+            "ratingsBody": "TMS",
+            "value": "3.5"
+        },
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "G"
+            }
+        ],
+        "runTime": "PT01H32M",
+        "animation": "Animated",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p27462_v_v5_am.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T15:30",
+                "quals": "Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=26674&d=2020-10-29"
+            }
+        ]
+    },
+    {
+        "tmsId": "MV013711250000",
+        "rootId": "17842770",
+        "subType": "Feature Film",
+        "title": "The Empty Man",
+        "releaseYear": 2020,
+        "releaseDate": "2020-10-23",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "longDescription": "A series of mysterious disappearances in a small Midwestern town may be linked to a supernatural entity.",
+        "shortDescription": "A retired cop links mysterious disappearances to a mystical urban legend known as the Empty Man.",
+        "topCast": [
+            "James Badge Dale",
+            "Owen Teague",
+            "Marin Ireland"
+        ],
+        "directors": [
+            "David Prior"
+        ],
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "R"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations",
+            "Nudity",
+            "Violence"
+        ],
+        "runTime": "PT02H17M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p17842770_v_v5_aa.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T15:45",
+                "quals": "Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=204706&d=2020-10-29"
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T19:10",
+                "quals": "Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=204706&d=2020-10-29"
+            }
+        ]
+    },
+    {
+        "tmsId": "MV009141240000",
+        "rootId": "13107896",
+        "subType": "Feature Film",
+        "title": "The Boss Baby",
+        "releaseYear": 2017,
+        "releaseDate": "2017-03-31",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Comedy",
+            "Adventure",
+            "Animated",
+            "Children"
+        ],
+        "audience": "Children",
+        "longDescription": "A new baby's arrival impacts a family, told from the point of view of a delightfully unreliable narrator -- a wildly imaginative 7-year-old named Tim. The most unusual Boss Baby (Alec Baldwin) arrives at Tim's home in a taxi, wearing a suit and carrying a briefcase. The instant sibling rivalry must soon be put aside when Tim discovers that Boss Baby is actually a spy on a secret mission, and only he can help thwart a dastardly plot that involves an epic battle between puppies and babies.",
+        "shortDescription": "A wildly imaginative boy discovers that his new brother is actually a spy on a secret mission.",
+        "topCast": [
+            "Alec Baldwin",
+            "Miles Christopher Bakshi",
+            "Tobey Maguire"
+        ],
+        "directors": [
+            "Tom McGrath"
+        ],
+        "officialUrl": "http://www.foxmovies.com/movies/the-boss-baby",
+        "qualityRating": {
+            "ratingsBody": "TMS",
+            "value": "2.5"
+        },
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "PG"
+            }
+        ],
+        "advisories": [
+            "Adult Situations"
+        ],
+        "runTime": "PT01H37M",
+        "animation": "Animated",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p13107896_v_v5_ae.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T16:30",
+                "quals": "Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=164732&d=2020-10-29"
+            }
+        ]
+    },
+    {
+        "tmsId": "MV015305700000",
+        "rootId": "18936062",
+        "subType": "Feature Film",
+        "title": "The Kid Detective",
+        "releaseYear": 2020,
+        "releaseDate": "2020-09-13",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Dark comedy"
+        ],
+        "longDescription": "A once-celebrated kid detective, now 31, continues to solve the same trivial mysteries between hangovers and bouts of self-pity. But a naive client brings him his first adult case -- to find out who brutally murdered her boyfriend.",
+        "shortDescription": "A down-and-out detective teams up with a teenager to solve the mysterious murder of her boyfriend.",
+        "topCast": [
+            "Adam Brody",
+            "Sophie Nélisse",
+            "Sarah Sutherland"
+        ],
+        "directors": [
+            "Evan Morgan"
+        ],
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "R"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations",
+            "Brief Nudity",
+            "Violence"
+        ],
+        "runTime": "PT01H39M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "caption": {
+                "content": "The Kid Detective (2020)",
+                "lang": "en"
+            },
+            "uri": "assets/p18936062_p_v5_aa.jpg",
+            "category": "Poster Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T16:45",
+                "quals": "AMC Independent|Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=207175&d=2020-10-29"
+            }
+        ]
+    },
+    {
+        "tmsId": "MV010689130000",
+        "rootId": "14939189",
+        "subType": "Feature Film",
+        "title": "Alita: Battle Angel",
+        "releaseYear": 2019,
+        "releaseDate": "2019-02-08",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Science fiction",
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Animated"
+        ],
+        "longDescription": "Set several centuries in the future, the abandoned Alita is found in the scrapyard of Iron City by Ido, a compassionate cyber-doctor who takes the unconscious cyborg Alita to his clinic. When Alita awakens, she has no memory of who she is, nor does she have any recognition of the world she finds herself in. As Alita learns to navigate her new life and the treacherous streets of Iron City, Ido tries to shield her from her mysterious past.",
+        "shortDescription": "A cyborg combats deadly forces while trying to uncover the truth behind her mysterious past.",
+        "topCast": [
+            "Rosa Salazar",
+            "Christoph Waltz",
+            "Keean Johnson"
+        ],
+        "directors": [
+            "Robert Rodriguez"
+        ],
+        "officialUrl": "https://www.foxmovies.com/movies/alita-battle-angel",
+        "qualityRating": {
+            "ratingsBody": "TMS",
+            "value": "2.5"
+        },
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "PG-13"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations",
+            "Violence"
+        ],
+        "runTime": "PT02H02M",
+        "animation": "Animated",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p14939189_v_v5_ac.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T17:00",
+                "quals": "Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=181503&d=2020-10-29"
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T19:55",
+                "quals": "Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=181503&d=2020-10-29"
+            }
+        ]
+    },
+    {
+        "tmsId": "MV015297250000",
+        "rootId": "17395468",
+        "subType": "Feature Film",
+        "title": "Honest Thief: The IMAX 2D Experience",
+        "releaseYear": 2020,
+        "releaseDate": "2020-10-16",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "longDescription": "Hoping to cut a deal, a professional bank robber agrees to return all the money he stole in exchange for a reduced sentence. But when two FBI agents set him up for murder, he must now go on the run to clear his name and bring them to justice.",
+        "shortDescription": "A professional bank robber goes on the run to clear his name and bring two crooked cops to justice.",
+        "topCast": [
+            "Liam Neeson",
+            "Kate Walsh",
+            "Robert Patrick"
+        ],
+        "directors": [
+            "Mark Williams"
+        ],
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "PG-13"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations",
+            "Violence"
+        ],
+        "runTime": "PT01H39M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "caption": {
+                "content": "Honest Thief (2020)",
+                "lang": "en"
+            },
+            "uri": "assets/p17395468_p_v5_aa.jpg",
+            "category": "Poster Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T17:00",
+                "quals": "AMC Independent|Closed Captioned|Descriptive Video Services|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=207158&d=2020-10-29"
+            }
+        ]
+    },
+    {
+        "tmsId": "MV009399060000",
+        "rootId": "13370112",
+        "subType": "Feature Film",
+        "title": "The War With Grandpa",
+        "releaseYear": 2020,
+        "releaseDate": "2020-10-07",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Comedy"
+        ],
+        "longDescription": "Peter and his grandpa used to be very close, but when Grandpa Jack moves in with the family, Peter is forced to give up his most prized possession: his bedroom. Peter will stop at nothing to get his room back, scheming with friends to devise a series of pranks to drive him out. However, grandpa doesn't give up easily, and it turns into an all-out war between the two.",
+        "shortDescription": "A scheming boy devises a series of outrageous pranks to win back his room from his grandfather.",
+        "topCast": [
+            "Robert De Niro",
+            "Uma Thurman",
+            "Rob Riggle"
+        ],
+        "directors": [
+            "Tim Hill"
+        ],
+        "officialUrl": "https://www.warwithgrandpa.com/",
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "PG"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations"
+        ],
+        "runTime": "PT01H34M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p13370112_v_v5_ad.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T17:15",
+                "quals": "AMC Independent|Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=167706&d=2020-10-29"
+            },
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T19:20",
+                "quals": "AMC Independent|Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=167706&d=2020-10-29"
+            }
+        ]
+    },
+    {
+        "tmsId": "MV013941890000",
+        "rootId": "18082004",
+        "subType": "Feature Film",
+        "title": "Kajillionaire",
+        "releaseYear": 2020,
+        "releaseDate": "2020-01-25",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Comedy drama"
+        ],
+        "longDescription": "Two con artists have spent 26 years training their only daughter to swindle, scam and steal at every turn. During a desperate and hastily conceived heist, they charm a stranger into joining them, only to have their entire world turned upside down.",
+        "shortDescription": "A family of con artists encounter a stranger who turns their entire world upside down.",
+        "topCast": [
+            "Evan Rachel Wood",
+            "Gina Rodriguez",
+            "Richard Jenkins"
+        ],
+        "directors": [
+            "Miranda July"
+        ],
+        "officialUrl": "https://www.focusfeatures.com/kajillionaire",
+        "qualityRating": {
+            "ratingsBody": "TMS",
+            "value": "3.5"
+        },
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "R"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations"
+        ],
+        "runTime": "PT01H44M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p18082004_v_v5_aa.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T17:30",
+                "quals": "AMC Independent|Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=205734&d=2020-10-29"
+            }
+        ]
+    },
+    {
+        "tmsId": "MV014181610000",
+        "rootId": "18378295",
+        "subType": "Feature Film",
+        "title": "2 Hearts",
+        "releaseYear": 2020,
+        "releaseDate": "2020-10-16",
+        "titleLang": "en",
+        "descriptionLang": "en",
+        "entityType": "Movie",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "longDescription": "A college student falls madly in love with a classmate, while a Cuban exile falls for a beautiful flight attendant.",
+        "shortDescription": "A college student falls in love with a classmate, while a Cuban exile falls for a flight attendant.",
+        "topCast": [
+            "Radha Mitchell",
+            "Tiera Skovbye",
+            "Jacob Elordi"
+        ],
+        "directors": [
+            "Lance Hool"
+        ],
+        "ratings": [
+            {
+                "body": "Motion Picture Association of America",
+                "code": "PG-13"
+            }
+        ],
+        "advisories": [
+            "Adult Language",
+            "Adult Situations"
+        ],
+        "runTime": "PT01H40M",
+        "preferredImage": {
+            "width": "240",
+            "height": "360",
+            "uri": "assets/p18378295_v_v5_aa.jpg",
+            "category": "VOD Art",
+            "text": "yes",
+            "primary": "true"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "5320",
+                    "name": "AMC Barton Creek Square 14"
+                },
+                "dateTime": "2020-10-29T20:10",
+                "quals": "AMC Independent|Closed Captioned|Descriptive Video Services|Recliners|Reserved Seating",
+                "barg": false,
+                "ticketURI": "http://www.fandango.com/tms.asp?t=AANCC&m=205895&d=2020-10-29"
+            }
+        ]
+    },
+    {
+        "tmsId": "EV000000226201",
+        "rootId": "169331",
+        "subType": "Theatre Event",
+        "title": "No Films Showing Today",
+        "titleLang": "en",
+        "entityType": "Movie",
+        "preferredImage": {
+            "uri": "tvbanners/generic/generic_tvbanners_v5.png"
+        },
+        "showtimes": [
+            {
+                "theatre": {
+                    "id": "8298",
+                    "name": "Regal Westgate Stadium 11"
+                },
+                "dateTime": "2020-10-29T12:00",
+                "barg": false
+            }
+        ]
+    }
+]
